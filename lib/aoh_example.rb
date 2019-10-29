@@ -18,7 +18,7 @@ def literal_aoh
   # held in the constants
   
   result = [
-    DON_G = {name: "Don Gately", occupation: "Live-in Staff" },
+    {name: "Don Gately", occupation: "Live-in Staff" },
     ]
 
 
