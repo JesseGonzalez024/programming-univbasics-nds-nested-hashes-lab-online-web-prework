@@ -25,11 +25,13 @@ def literal_aoh
     {name: "Bruce Green", occupation: "Fan of Mildred" }
     ]
     
-
-
 end
 
 def aoh_lookup(aoh, row, key)
+
+  aoh
+
+
 end
 
 def aoh_update(aoh, row, key, new_value)
